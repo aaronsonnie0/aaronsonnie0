@@ -1,6 +1,8 @@
 ## 👋 Hey there!
 
-I’m a passionate **Computer Science undergrad** at *Karunya Institute of Technology and Sciences*, specializing in **Artificial Intelligence**. I’m on a mission to leverage **AI** and **data science** to build real-world solutions that spark impact — locally and globally.
+Hey there! I’m **Aaron**, a highly motivated Computer Science undergraduate at *Karunya Institute of Technology and Sciences*, specializing in **Artificial Intelligence**. I’m deeply passionate about using technology — especially AI and data science — to **solve real-world problems**, automate processes, and drive innovation across industries.
+
+From analyzing complex datasets to building smart applications, I thrive at the intersection of **data, machine learning, and creativity**. My journey in tech is driven by curiosity, purpose, and the belief that intelligent systems can transform lives.
 
 ---
 
