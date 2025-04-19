@@ -60,18 +60,6 @@ Let’s innovate and inspire! 💡💪
 
 ---
 
-## 📊 GitHub Stats
-
-![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaronsonnie0&show_icons=true&theme=default)
-
----
-
-## 🔝 Top Contributed Repo
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronsonnie0&layout=compact&theme=default)](https://github.com/aaronsonnie0)
-
----
-
 ## 📬 Contact
 
 Feel free to reach out for collaborations, projects, or just a chill convo about AI, Data Science, or tech in general!
